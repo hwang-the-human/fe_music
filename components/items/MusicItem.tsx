@@ -107,6 +107,7 @@ const styles = StyleSheet.create({
   subBox: {
     display: 'flex',
     flexDirection: 'row',
+    alignItems: 'center',
     gap: 15,
   },
 
